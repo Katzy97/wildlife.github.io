@@ -1,0 +1,28 @@
+body {
+    background-image: url(login.jpg);
+    background-position: center;
+    font-size: 30px;
+    line-height: 50px;
+    border-top: 10px;
+    color: ivory;
+    text-align: left;
+}
+p {
+    text-align: center;
+    border-top: 0pxs;
+    border-bottom: 2px solid rgb(110, 104, 134);
+    border-right: 2px solid rgb(110, 104, 134);
+    width: 700px;
+}
+input {
+    font-size: 20px;
+}
+button {
+    font-size: 20px;
+}
+footer {
+    border-bottom: 2px;
+    text-align: center;
+    font-style: italic;
+    color: aliceblue;
+}
